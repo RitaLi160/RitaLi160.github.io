@@ -1,0 +1,61 @@
+---
+title: "Xinrui Li (Rita)"
+image: RitaLi.png
+links:
+  - label: Email
+    url: mailto:x80875558@gmail.com
+  - label: GitHub
+    url: https://github.com/RitaLi160
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/xinrui-li-578bab32b/
+output:
+  postcards::trestles
+---
+
+<style>
+h2 {
+  color: #4A90E2;
+}
+</style>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Bio
+
+Hi! My name is Xinrui (Rita) Li. I am a second-year ScM student in Molecular Microbiology and Immunology at the Johns Hopkins Bloomberg School of Public Health, where my current research focuses on Trypanosoma brucei. Before joining Johns Hopkins, I completed my undergraduate studies in Biomedical Sciences at Zhejiang University in China, where I conducted research in tumor immunology.
+
+## Education
+
+**Johns Hokins Bloomberg School of Public Health**｜ Baltimore, USA
+
+Master of Science in Molecular Microbiology and Immunology | August 2025 - May 2027 (Expected)
+
+**West Lake University** | China 
+
+Visiting student (Paid) ｜ August 2024 - September 2024
+
+**Zhejiang University-University of Edinburgh institute** ｜China
+
+Dual B.S. in Biomedical Sciences | August 2021 - June 2025
+
+## Statistics, programming, data analysis experience
+
+I have attened Stats courses in both undergraduate and master, and have used R for data analysis in my research. 
+
+## Fun facts about me 
+- Really like Rutaceae fruit, so named my dog as Lemon and my cat as Pomelo.
+- Have worked as an online novel writer for almost 8 years (part-time and sometimes lazy)
+- Almost not picky about food.
+- Discover my new allergens all the time.
+
+## Hobbies
+
+Dancing, reading and writing.
+
+
+
+
+
+
